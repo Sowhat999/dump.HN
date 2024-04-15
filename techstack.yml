@@ -1,0 +1,20 @@
+repo_name: Sowhat999/dump.HN
+report_id: c69c13523219904905c257dfb43a319e
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-15T07:04:11+00:00'
+requested_by: alixaxel
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Sowhat999/dump.HN
+  detection_source: Repo Metadata
